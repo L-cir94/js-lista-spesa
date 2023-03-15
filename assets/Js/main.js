@@ -11,3 +11,5 @@ Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione
 // creo lista 
 const shoppingList = ["vinellino", "cibo gatti", "biscottini vegani", "Pasta", "Birra vegana", "salami", "Burro", "acido", "disinfettante cesso", "veleno per topi"];
 
+const container = document.querySelector(".container");
+
