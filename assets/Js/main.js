@@ -13,3 +13,8 @@ const shoppingList = ["vinellino", "cibo gatti", "biscottini vegani", "Pasta", "
 
 const container = document.querySelector(".container");
 
+const ulElement = document.createElement("ol");
+container.append(ulElement);
+
+let i = 0;
+
