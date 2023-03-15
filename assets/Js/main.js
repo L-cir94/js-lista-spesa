@@ -20,9 +20,12 @@ let i = 0;
 
 
 while (i < shoppingList.length) {
+    const liElement = document.createElement("li");
 
+    liElement.innerText = shoppingList[i];
+  
 
+    ulElement.append(liElement);
     
-
     i++;
 }
