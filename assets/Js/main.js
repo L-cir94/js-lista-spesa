@@ -18,3 +18,11 @@ container.append(ulElement);
 
 let i = 0;
 
+
+while (i < shoppingList.length) {
+
+
+    
+
+    i++;
+}
